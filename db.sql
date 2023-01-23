@@ -1,5 +1,3 @@
--- SET GLOBAL host_cache_size=0;
-
 CREATE DATABASE `db`;
 USE `db`;
 
